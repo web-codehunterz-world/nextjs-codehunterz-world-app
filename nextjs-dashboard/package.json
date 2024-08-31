@@ -3,7 +3,12 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "start": "next start",
+    "gitc": "git clone ",
+    "pnpmdev": "pnpm run dev",
+    "pnpmbuild": "pnpm run build",
+    "pnpmstart": "pnpm run start"
+
   },
   "dependencies": {
     "@heroicons/react": "^2.1.4",
